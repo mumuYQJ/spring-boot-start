@@ -1,0 +1,13 @@
+package com.csdj.springbootaopbuid;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootAopBuidApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootAopBuidApplication.class, args);
+    }
+
+}
